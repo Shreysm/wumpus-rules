@@ -37,7 +37,7 @@ Knowledge Base- wumpus_rules.txt
 Additional Knowledge Base- additional_knowledge.txt
 
 Usage-
-** python check_true_false.py wumpus_rules.txt [additional_knowledge.txt] [statement.txt] **
+**python check_true_false.py wumpus_rules.txt [additional_knowledge.txt] [statement.txt]**
 
 Example-
 python check_true_false.py wumpus_rules.txt additional_knowledge.txt statement1.txt
